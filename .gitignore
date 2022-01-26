@@ -4,3 +4,4 @@ tmp/
 .ipynb_checkpoints/
 build/
 multivar.egg-info/
+.idea/
