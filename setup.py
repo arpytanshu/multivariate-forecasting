@@ -28,7 +28,7 @@ class CustomInstall(install):
 
 setup(
       name='multivar',
-      version="v0.1.0",
+      version="v0.2.0",
       description='streamlining multivariate timeseries forecasting research.',
       long_description=LONG_DESCRIPTION,
       long_description_content_type="text/markdown",
